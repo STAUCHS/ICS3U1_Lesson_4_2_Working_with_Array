@@ -11,7 +11,7 @@
 
 
 ## Arrays as Reference Data Types
-Arrays in Java are <ins>**REFERENCE DATA TYPES**</ins>.  This means that, like objects, the array variable holds a reference to the data in the array, not the arrays' data itself.
+Arrays in Java are <ins>**REFERENCE DATA TYPES**</ins>.  This means that the array variable holds a reference to the data in the array, not the arrays' data itself.
 
 Consider an array called `temperatures`.  The variable `temperatures` is a reference to the data.
 
